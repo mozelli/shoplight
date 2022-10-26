@@ -1,0 +1,15 @@
+{
+  "name": "shoplight",
+  "version": "1.0.0",
+  "description": "Web Scraping API for e-commerce",
+  "main": "index.js",
+  "author": "João Mozelli Neto <joaomozelli@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^19.1.1"
+  }
+}
